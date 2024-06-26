@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Tue Jun 25 15:09:55 2024
+        MODULE READCASE__genmod
+          INTERFACE 
+            SUBROUTINE READCASE(N)
+              INTEGER(KIND=4) :: N
+            END SUBROUTINE READCASE
+          END INTERFACE 
+        END MODULE READCASE__genmod

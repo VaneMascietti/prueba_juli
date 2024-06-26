@@ -1,0 +1,10 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Mar 15 12:28:43 2024
+        MODULE READRKPRNC__genmod
+          INTERFACE 
+            SUBROUTINE READRKPRNC(NC,NIN,NOUT)
+              INTEGER(KIND=4) :: NC
+              INTEGER(KIND=4) :: NIN
+              INTEGER(KIND=4) :: NOUT
+            END SUBROUTINE READRKPRNC
+          END INTERFACE 
+        END MODULE READRKPRNC__genmod
